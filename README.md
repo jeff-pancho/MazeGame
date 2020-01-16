@@ -3,8 +3,6 @@ A game where the user tries to escape three mazes with varying difficulties. Wri
 
 I developed this game for a bonus assignment I chose to do over the winter break for Computer Programming 12 in highschool.
 
-This program features a lot of comments beceause of the requirements for my assignment.
-
 # How to play
 First, you are given the choice of choosing an `easy`, `medium`, or `hard` maze. After choosing a maze, you can start playing!
 
@@ -31,3 +29,9 @@ Alternatively, download or clone the repo onto your computer and run it through 
 python main.py
 ```
 **NOTE:** This program was written in Python 2.7.1; therefore, the program will only run in that version.
+
+# Extra
+
+This program has a lot of comments because of one of the requirements of my assignment (document everything).
+
+This program was written before I learned about classes, so the use of dictionaries may be unnecessary here.
